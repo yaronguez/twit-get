@@ -1,0 +1,16 @@
+{
+  "name": "twit-get",
+  "version": "1.0.0",
+  "description": "Get REST requests from Twitter",
+  "main": "twit-get.js",
+  "scripts": {
+    "start": "node twit-get.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "re4s0n4",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-confirm": "^2.0.4",
+    "twit": "^2.2.11"
+  }
+}
